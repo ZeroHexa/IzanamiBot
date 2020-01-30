@@ -38,8 +38,8 @@ urll = "http://zone-h.org/archive/published=0"
 url2 = "http://www.defacers.org/onhold!"
 url4 = "http://www.defacers.org/gold!"
 my_cook = {
-	"ZHE" : "908209c47513e3e10ea6752f65fde5ab",
-	"PHPSESSID" : "a6lmc7bkrl52u6ujiq7o395bh5"
+	"ZHE" : "75c0f2008b4abd3c9544d6770aa72115",
+	"PHPSESSID" : "c1qjljm3ue5mtn7ke1dg8runb1"
 	}
 
 
